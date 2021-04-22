@@ -3,5 +3,5 @@
 module.exports = barPkg;
 
 function barPkg() {
-    // TODO
+    console.log('// TODO');
 }
