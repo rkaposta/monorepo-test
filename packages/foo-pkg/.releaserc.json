@@ -13,6 +13,10 @@
             "type": "chore",
             "release": "patch"
           },
+		  {
+            "type": "breaking",
+            "release": "major"
+          },
           {
             "scope": "no-release",
             "release": false
