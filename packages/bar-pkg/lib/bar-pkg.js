@@ -3,5 +3,5 @@
 module.exports = barPkg;
 
 function barPkg() {
-    console.log('// TODO - bar pkg new version, yihaaaa //');
+    console.log('// TODO - bar pkg new version, yihaaaa2 //');
 }
