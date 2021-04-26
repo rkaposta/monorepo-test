@@ -6,7 +6,7 @@ module.exports = fooPkg;
 
 function fooPkg() {
     // TODO
-	console.log('Hello WORLd!!!!!!!?<! - does it work? really?');
+	console.log('Hello WORLd!!!!!!!?<! - does it work? really? why?');
     barPkg();
 }
 
