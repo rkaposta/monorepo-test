@@ -9,16 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commitizen": "^4.2.3",
-    "lerna": "^4.0.0",
-    "lerna-semantic-release": "^9.1.0"
-  },
-  "devDependencies": {
-    "cz-lerna-changelog": "^2.0.3"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-lerna-changelog"
-    }
+    "lerna": "^4.0.0"
   }
 }
