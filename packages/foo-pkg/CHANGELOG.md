@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.5](https://github.com/rkaposta/monorepo-test/compare/@rkaposta-test/foo-pkg@1.4.4...@rkaposta-test/foo-pkg@1.4.5) (2021-04-26)
+
+**Note:** Version bump only for package @rkaposta-test/foo-pkg
+
+
+
+
+
 ## [1.4.4](https://github.com/rkaposta/monorepo-test/compare/@rkaposta-test/foo-pkg@1.4.3...@rkaposta-test/foo-pkg@1.4.4) (2021-04-26)
 
 **Note:** Version bump only for package @rkaposta-test/foo-pkg
