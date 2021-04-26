@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.4.0](https://github.com/rkaposta/monorepo-test/compare/@rkaposta-test/bar-pkg@2.3.0...@rkaposta-test/bar-pkg@2.4.0) (2021-04-26)
+
+
+### Features
+
+* extended text\n\nBREAKING CHANGE: this is some good stuff ([045d033](https://github.com/rkaposta/monorepo-test/commit/045d03377ec2f89b719a8b0a801305e3824972aa))
+
+
+
+
+
 # [2.3.0](https://github.com/rkaposta/monorepo-test/compare/@rkaposta-test/bar-pkg@2.2.1...@rkaposta-test/bar-pkg@2.3.0) (2021-04-26)
 
 
