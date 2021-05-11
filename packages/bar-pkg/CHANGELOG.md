@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.1](https://github.com/rkaposta/monorepo-test/compare/@rkaposta-test/bar-pkg@3.0.0...@rkaposta-test/bar-pkg@3.0.1) (2021-05-11)
+
+**Note:** Version bump only for package @rkaposta-test/bar-pkg
+
+
+
+
+
 # [3.0.0](https://github.com/rkaposta/monorepo-test/compare/@rkaposta-test/bar-pkg@2.4.0...@rkaposta-test/bar-pkg@3.0.0) (2021-04-26)
 
 
